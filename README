@@ -1,0 +1,35 @@
+# Challenge01
+
+Este repositório foi criado para resolver alguns desafios enviados pela [Rocketseat](https://efficient-sloth-d85.notion.site/Desafio-pr-tico-61b5a711351942bfb2f369351f85990d) com o objetivo de aprimorar minhas técnicas em C#.
+
+## Sobre
+
+O projeto consiste em uma aplicação de console que apresenta um menu interativo com diversas funcionalidades, como:
+
+- Saudação simples e com nome completo
+- Operações matemáticas básicas entre dois números
+- Contagem de caracteres em uma palavra
+- Validação de placa de veículo
+- Formatação e exibição da data e hora atual em diferentes formatos
+
+Cada funcionalidade foi implementada como parte dos desafios propostos pela Rocketseat.
+
+## Como executar
+
+1. Clone este repositório.
+2. Certifique-se de ter o [.NET 7.0 SDK](https://dotnet.microsoft.com/download/dotnet/7.0) instalado.
+3. No terminal, navegue até a pasta do projeto e execute:
+
+```sh
+dotnet run
+```
+
+4. Siga as instruções exibidas no menu da aplicação.
+
+## Link para os desafios
+
+Acesse a lista completa dos desafios no Notion da Rocketseat:  
+[https://efficient-sloth-d85.notion.site/Desafio-pr-tico-61b5a711351942bfb2f369351f85990d](https://efficient-sloth-d85.notion.site/Desafio-pr-tico-61b5a711351942bfb2f369351f85990d)
+
+---
+Desenvolvido para fins de estudo e aprimoramento
