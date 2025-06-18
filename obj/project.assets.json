@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/Users/gabrielsilva/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/gabrielsilva/Study/Challenge01/Challenge01.csproj",
+      "projectName": "Challenge01",
+      "projectPath": "/Users/gabrielsilva/Study/Challenge01/Challenge01.csproj",
+      "packagesPath": "/Users/gabrielsilva/.nuget/packages/",
+      "outputPath": "/Users/gabrielsilva/Study/Challenge01/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/gabrielsilva/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/warrenbrasil/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/Users/gabrielsilva/.asdf/installs/dotnet-core/7.0.410/sdk/7.0.410/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/gabrielsilva/Study/Challenge01/bin/Debug/net7.0/Challenge01
+/Users/gabrielsilva/Study/Challenge01/bin/Debug/net7.0/Challenge01.deps.json
+/Users/gabrielsilva/Study/Challenge01/bin/Debug/net7.0/Challenge01.runtimeconfig.json
+/Users/gabrielsilva/Study/Challenge01/bin/Debug/net7.0/Challenge01.dll
+/Users/gabrielsilva/Study/Challenge01/bin/Debug/net7.0/Challenge01.pdb
+/Users/gabrielsilva/Study/Challenge01/obj/Debug/net7.0/Challenge01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielsilva/Study/Challenge01/obj/Debug/net7.0/Challenge01.AssemblyInfoInputs.cache
+/Users/gabrielsilva/Study/Challenge01/obj/Debug/net7.0/Challenge01.AssemblyInfo.cs
+/Users/gabrielsilva/Study/Challenge01/obj/Debug/net7.0/Challenge01.csproj.CoreCompileInputs.cache
+/Users/gabrielsilva/Study/Challenge01/obj/Debug/net7.0/Challenge01.dll
+/Users/gabrielsilva/Study/Challenge01/obj/Debug/net7.0/refint/Challenge01.dll
+/Users/gabrielsilva/Study/Challenge01/obj/Debug/net7.0/Challenge01.pdb
+/Users/gabrielsilva/Study/Challenge01/obj/Debug/net7.0/Challenge01.genruntimeconfig.cache
+/Users/gabrielsilva/Study/Challenge01/obj/Debug/net7.0/ref/Challenge01.dll
